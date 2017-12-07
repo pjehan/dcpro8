@@ -7,7 +7,7 @@
 
 		<h1>C'est mon super site !!</h1>
 
-		<p>Il est super :)</p>
+		<p>Il est super bien :)</p>
 
 	</body>
 </html>
